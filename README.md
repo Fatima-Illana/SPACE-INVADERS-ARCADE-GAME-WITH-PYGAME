@@ -1,4 +1,4 @@
-# SPACE INVADERS - ARCADE GAME IN PYTHON
+# SPACE INVADERS - ARCADE GAME WITH PYGAME
 
 This project is a recreation of the classic arcade game **"Space Invaders"**, programmed in Python using the Pygame library. The objective of the game is to eliminate the enemies before they reach the bottom edge of the screen. The player can choose between three difficulty levels, and at the end of the game, the score is saved along with the player's name.
 
