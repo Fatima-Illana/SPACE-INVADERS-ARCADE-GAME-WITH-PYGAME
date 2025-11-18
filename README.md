@@ -1,4 +1,4 @@
-# Space Invaders - Arcade Game in Python
+# SPACE INVADERS - ARCADE GAME IN PYTHON
 
 This project is a recreation of the classic arcade game **"Space Invaders"**, programmed in Python using the Pygame library. The objective of the game is to eliminate the enemies before they reach the bottom edge of the screen. The player can choose between three difficulty levels, and at the end of the game, the score is saved along with the player's name.
 
@@ -28,10 +28,10 @@ This project is a recreation of the classic arcade game **"Space Invaders"**, pr
 - **SpaceInvaders.py**: Contains the main game code.
 - **InformeSpaceInvaders**: Detailed report of the entire program.
 - **cinco_máximos.py**: Auxiliary module that manages the storage and retrieval of the top five scores.
-- **Images Folder**: Contains all graphic assets used in the game.
-- **Audio Folder**: Contains audio files for in-game sounds.
-- **Files Folder**: Contains fonts, general game information, and the score storage file.
-- **ImagesGameInAction Folder**: Contains screenshots of the game in action.
+- **Imágenes Folder**: Contains all graphic assets used in the game.
+- **Audios Folder**: Contains audio files for in-game sounds.
+- **Archivos Folder**: Contains fonts, general game information, and the score storage file.
+- **ImágenesFuncionamiento Folder**: Contains screenshots of the game in action.
 
 Both the report and the code are only available in spanish.
 
