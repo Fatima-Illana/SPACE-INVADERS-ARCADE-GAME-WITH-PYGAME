@@ -14,7 +14,7 @@ This project is a recreation of the classic arcade game **"Space Invaders"**, pr
 
 ## Interface
 
-<img src="./ImagenesFuncionamiento/PantallasFuncionamiento.png" alt="Main game menu" width="1000"/>
+<img src="./ImagenesFuncionamiento/PantallasFuncionamiento.png" alt="Menú principal del juego" width="1000"/>
 
 ## Requirements
 
