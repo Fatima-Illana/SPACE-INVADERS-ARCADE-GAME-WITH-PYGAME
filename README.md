@@ -28,11 +28,31 @@ This project is a recreation of the classic arcade game **"Space Invaders"**, pr
 - **SpaceInvaders.py**: Contains the main game code.
 - **InformeSpaceInvaders**: Detailed report of the entire program.
 - **cinco_máximos.py**: Auxiliary module that manages the storage and retrieval of the top five scores.
+- 
 - **Imágenes Folder**: Contains all graphic assets used in the game.
 - **Audios Folder**: Contains audio files for in-game sounds.
 - **Archivos Folder**: Contains fonts, general game information, and the score storage file.
 - **ImágenesFuncionamiento Folder**: Contains screenshots of the game in action.
 
+```text
+👾 SPACE INVADERS - ARCADE GAME WITH PYGAME
+├── 📁 Archivos
+│       → Contains fonts, general game information, and the score storage file.
+├── 📁 Audios
+│       → Contains audio files for in-game sounds.
+├── 📁 ImagenesFuncionamiento
+│       → Contains screenshots of the game in action.
+├── 📁 Imágenes
+│       → Contains all graphic assets used in the game.
+├── 🟥 InformeSpaceInvaders.pdf
+│      → Detailed report of the entire program.
+├── 📄 README.md
+│       → Documentation of the project.
+├── 🐍 cinco_máximos.py
+│       → Auxiliary module that manages the storage and retrieval of the top five scores.
+└── 🐍 SpaceInvaders.py
+        → Python script that contains the main game code.
+```
 Both the report and the code are only available in spanish.
 
 ## How to Play
